@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### TEMP DELETE THIS LINE LATER ###
-Dockerfile 
+ 
 Jenkinsfile 
 deplopyment.yaml
 service.yaml
