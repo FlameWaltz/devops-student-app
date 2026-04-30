@@ -10,7 +10,7 @@ pipeline {
         stage('Clone') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/YOURNAME/devops-student-app.git'
+                url: 'https://github.com/FlameWaltz/devops-student-app.git'
             }
         }
 
